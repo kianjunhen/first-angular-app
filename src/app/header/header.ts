@@ -3,7 +3,7 @@ import { NgOptimizedImage } from '@angular/common';
 
 @Component({
   selector: 'app-header',
-  standalone: true,
+  standalone: false,
   styleUrl: './header.css',
   templateUrl: './header.html',
 })
